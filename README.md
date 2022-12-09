@@ -6,7 +6,9 @@
 ## PHP 8.0
 
 # Configuracion
-### Configure .env y cambie el nombre BD
+### Configure .env, cambie el nombre BD
+### ejecute los siguientes Comandos
+### composer install --ignore-platform-reqs
 ### php artisan migrate:fresh --seed
 ### php artisan key:generate
 ### php artisan serve
